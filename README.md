@@ -52,6 +52,8 @@ This is intended to bootstrap a list of NTP servers with NTS support given that 
 |[time3.mbix.ca](https://time3.mbix.ca)|1|Canada|Manitoba Internet Exchange|IPv4 and IPv6|
 |[time.web-clock.ca](https://time.web-clock.ca)|1|Canada|Community||
 ||
+|[time.cincura.net](https://time.cincura.net)|1|Czech Republic|Jiří Činčura||
+||
 |ntp.miuku.net|3|Finland|miuku.net||
 ||
 |paris.time.system76.com|2|France|System76||

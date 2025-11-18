@@ -80,6 +80,12 @@ mode = "nts"
 address = "time.web-clock.ca"
 
 
+# Czech Republic
+[[source]]
+mode = "nts"
+address = "time.cincura.net"
+
+
 # Finland
 [[source]]
 mode = "nts"

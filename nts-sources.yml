@@ -109,6 +109,12 @@ servers:
   owner: Community
   vm: false
 
+- hostname: '[time.cincura.net](https://time.cincura.net)'
+  stratum: 1
+  location: Czech Republic
+  owner: Jiří Činčura
+  vm: false
+
 - hostname: ntp.miuku.net
   stratum: 3
   location: Finland
