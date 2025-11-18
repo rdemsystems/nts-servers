@@ -113,6 +113,7 @@ servers:
   stratum: 1
   location: Czech Republic
   owner: Jiří Činčura
+  notes: IPv4 and IPv6
   vm: false
 
 - hostname: ntp.miuku.net
